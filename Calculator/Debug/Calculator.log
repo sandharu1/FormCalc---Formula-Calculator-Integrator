@@ -1,0 +1,56 @@
+﻿Build started 7/27/2015 12:21:41 AM.
+     1>Project "C:\Users\sandharu1\Desktop\IdeaFactory-SE1-Source_Code\Calculator-IdeaFactory\Calculator\Calculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp MyForm1.cpp
+         MyForm.cpp
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(743): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(746): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(800): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(803): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1562): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1566): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1566): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1628): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1688): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1752): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1814): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(1992): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2051): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2099): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2116): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2133): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2150): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2167): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2184): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2395): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2447): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2483): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2537): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2542): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2589): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2592): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2645): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2648): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2701): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2704): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2753): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2810): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2830): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2849): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2873): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2907): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\MyForm.h(2918): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         MyForm1.cpp
+         Generating Code...
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\operatorstack.h(22): warning C4715: 'operatorStack::icpvalue' : not all control paths return a value
+     1>c:\users\sandharu1\desktop\ideafactory-se1-source_code\calculator-ideafactory\calculator\operatorstack.h(32): warning C4715: 'operatorStack::ispvalue' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sandharu1\Desktop\IdeaFactory-SE1-Source_Code\Calculator-IdeaFactory\Debug\Calculator.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Calculator.MyForm.resources /ASSEMBLYRESOURCE:Debug\Calculator.MyForm1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\sandharu1\Desktop\IdeaFactory-SE1-Source_Code\Calculator-IdeaFactory\Debug\Calculator.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\MyForm1.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Calculator.vcxproj -> C:\Users\sandharu1\Desktop\IdeaFactory-SE1-Source_Code\Calculator-IdeaFactory\Debug\Calculator.exe
+     1>Done Building Project "C:\Users\sandharu1\Desktop\IdeaFactory-SE1-Source_Code\Calculator-IdeaFactory\Calculator\Calculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.63
